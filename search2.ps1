@@ -2,7 +2,7 @@ clear
 
 $keyword='tumblr'
 
-[System.Console]::WriteLine('«Î ‰»Îπÿº¸¥ :')
+[System.Console]::WriteLine('Please input the key word:')
 $keyword = Read-Host
 
 [string[]]$td='d','e','f'
